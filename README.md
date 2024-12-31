@@ -19,7 +19,8 @@ Below is a comparison of pathway enrichment results before and after applying Pa
 ### Before Applying PathwayCleaner
 Unreduced pathways visualization:
 
-![Unreduced Pathways](images/Unreduced.png)
+![Unreduced Pathways]<img width="404" alt="Reduced" src="https://github.com/user-attachments/assets/71a1bfb9-161e-4794-9154-5c7de89c36c7" />
+)
 
 ### After Applying PathwayCleaner
 Reduced pathways visualization:
