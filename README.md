@@ -7,7 +7,7 @@ PathwayCleaner is a Python-based tool designed to streamline and refine pathway 
 - Generates a publication-ready visualization of the top 10 pathways.
 
 ## Requirements
-- Python >= 3.6
+- Python >= 3.*
 - pandas
 - matplotlib
 - seaborn
