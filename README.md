@@ -22,12 +22,6 @@ Unreduced pathways visualization:
 ![Unreduced Pathways](<img width="548" alt="Unreduced" src="https://github.com/user-attachments/assets/f0d4564d-de3e-400a-8e9d-05ad11b3d588" />
 )
 
-### After Applying PathwayCleaner
-Reduced pathways visualization:
-
-![Reduced Pathways](<img width="404" alt="Reduced" src="https://github.com/user-attachments/assets/87f889ee-d55d-486d-a199-922086158c47" />
-)
-
 
 
 
