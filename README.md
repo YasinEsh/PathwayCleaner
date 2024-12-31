@@ -15,3 +15,9 @@ PathwayCleaner is a Python-based tool designed to streamline and refine pathway 
 Install the dependencies with:
 ```bash
 pip install pandas matplotlib seaborn
+
+# PathwayCleaner 🚀
+
+[![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](CONTRIBUTING.md)
