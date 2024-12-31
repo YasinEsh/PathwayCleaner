@@ -1,4 +1,4 @@
-# PathwayCleaner 🚀
+<img width="548" alt="Unreduced" src="https://github.com/user-attachments/assets/520b6c8b-3e45-4db0-958a-7fbbd6223c54" /># PathwayCleaner 🚀
 PathwayCleaner is a Python-based tool designed to streamline and refine pathway enrichment analysis results. It identifies overlapping pathway terms based on shared genes, filters redundant entries, and visualizes the most statistically significant pathways for better interpretability
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
@@ -19,13 +19,13 @@ Below is a comparison of pathway enrichment results before and after applying Pa
 ### Before Applying PathwayCleaner
 Unreduced pathways visualization:
 
-![Unreduced Pathways]<img width="404" alt="Reduced" src="https://github.com/user-attachments/assets/71a1bfb9-161e-4794-9154-5c7de89c36c7" />
+![Unreduced Pathways](<img width="548" alt="Unreduced" src="https://github.com/user-attachments/assets/f0d4564d-de3e-400a-8e9d-05ad11b3d588" />
 )
 
 ### After Applying PathwayCleaner
 Reduced pathways visualization:
 
-![Reduced Pathways](<img width="404" alt="Reduced" src="https://github.com/user-attachments/assets/562078f9-46b6-44e7-93ef-f0807d2af441" />
+![Reduced Pathways](<img width="404" alt="Reduced" src="https://github.com/user-attachments/assets/87f889ee-d55d-486d-a199-922086158c47" />
 )
 
 
