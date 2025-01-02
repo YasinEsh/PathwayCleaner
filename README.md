@@ -16,16 +16,18 @@ PathwayCleaner is a Python-based tool designed to streamline and refine pathway 
 Below is a comparison of pathway enrichment results before and after applying PathwayCleaner:
 
 ### Before Applying PathwayCleaner
-<div style="text-align: center;">
-    <img width="548" alt="Unreduced" src="https://github.com/user-attachments/assets/9ed8a78e-ae89-4c8c-a04e-ccedfe33398e" />
-    <p><em>Unreduced pathways visualization</em></p>
-</div>
+
+![Unreduced pathways visualization](path/to/image1.png)
+
+<p align="center"><i>Unreduced pathways visualization</i></p>
+
+---
 
 ### After Applying PathwayCleaner
-<div style="text-align: center;">
-    <img width="404" alt="Reduced" src="https://github.com/user-attachments/assets/eab44d0a-b939-4dd1-8a7e-7094f1a0bdd7" />
-    <p><em>Reduced pathways visualization</em></p>
-</div>
+
+![Reduced pathways visualization](path/to/image2.png)
+
+<p align="center"><i>Reduced pathways visualization</i></p>
 
 ---
 
