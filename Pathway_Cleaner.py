@@ -92,7 +92,7 @@ if __name__ == "__main__":
     filtered_data = final_df
 
     # OPTION 1: Static total protein count (e.g., Reactome database total)
-    total_proteins_in_reactome = 137  # Replace this with the actual Reactome total if known
+    total_proteins_in_reactome = 137  # Replace this with the actual number of proteins that have been used to identify the pathways
 
     # OPTION 2: Dynamic total protein count (based on the dataset being analyzed)
     total_proteins_in_analysis = filtered_data['Genes'].str.split(';').explode().nunique()
