@@ -8,7 +8,7 @@ def calculate_overlap(genes1, genes2):
     set1, set2 = set(genes1.split(';')), set(genes2.split(';'))
     overlapping_genes = set1 & set2
     overlap_percentage = len(overlapping_genes) / min(len(set1), len(set2)) if min(len(set1), len(set2)) > 0 else 0
-    return overlap_percentage >= 0.65, overlapping_genes, overlap_percentage
+    return overlap_percentage >= 0.65, overlapping_genes, overlap_percentage #It can be changed depending on how much you want to summarize the terms
 
 # Function to unify pathway terms based on gene overlap
 def unify_terms(df):
